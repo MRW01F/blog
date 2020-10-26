@@ -28,7 +28,7 @@ But first make sure you have compatible graphics card before adding ppa or you m
 
 <img src="{{ site.baseurl }}/assets/images/adding-ppa-1.png">
 
-here as you can see the mormal `add-apt-repository` command for most debian based distros but we dont need that, Clock on the `Technical details about this PPA` to see the actual links of repo.
+here as you can see the mormal `add-apt-repository` command for most debian based distros but we dont need that, Click on the `Technical details about this PPA` to see the actual links of repo.
 
 <hr>
 
