@@ -24,14 +24,14 @@ But first make sure you have compatible graphics card before adding ppa or you m
 
 ## 1. Go to the provider's site and scroll down where you can see "Adding this PPA to your system"
 
-<img src="{{ site.baseurl }}/assets/../../../assets/images/adding-ppa-1.png">
+<img src="{{ site.baseurl }}/assets/images/adding-ppa-1.png">
 
 here as you can see the mormal `add-apt-repository` command for most debian based distros but we dont need that, Clock on the `Technical details about this PPA` to see the actual links of repo.
 
 
 ## 2. Select 
 
-<img src="{{ site.baseurl }}/assets/../../../assets/images/adding-ppa-2.png">
+<img src="{{ site.baseurl }}/assets/images/adding-ppa-2.png">
 
 Select `Xenial` From the dropdown list to get the repo links OR you can Replace the text which says "YOUR_UBUNTU_VERSION_HERE" with xenial. some of you might think why xenial ParrotOS is based on Buster?, its because this ppa does not have buster repos in it so we are choosing the closest one. (**If add the Buster Repo In the future You might want to select `buster` repo**)
 
