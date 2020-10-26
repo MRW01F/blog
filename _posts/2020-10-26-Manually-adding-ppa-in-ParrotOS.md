@@ -26,9 +26,10 @@ But first make sure you have compatible graphics card before adding ppa or you m
 
 ## 1. Go to the provider's site and scroll down where you can see "Adding this PPA to your system"
 
-![](/res/img/adding-ppa-1.png)
+![](../res/img/adding-ppa-1.png)
 
 here as you can see the mormal `add-apt-repository` command for most debian based distros but we dont need that, Clock on the `Technical details about this PPA` to see the actual links of repo.
+
 
 ## 2. Select 
 
