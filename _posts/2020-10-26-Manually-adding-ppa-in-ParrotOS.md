@@ -22,12 +22,15 @@ OR
 and now go to the repository site for the provider's page, here i am demonstrating by adding launchpad's [Proprietary GPU Drivers](https://launchpad.net/~graphics-drivers/+archive/ubuntu/ppa).
 But first make sure you have compatible graphics card before adding ppa or you may have problems later on. So Follow the steps.
 
+#
+
 ## 1. Go to the provider's site and scroll down where you can see "Adding this PPA to your system"
 
 <img src="{{ site.baseurl }}/assets/images/adding-ppa-1.png">
 
 here as you can see the mormal `add-apt-repository` command for most debian based distros but we dont need that, Clock on the `Technical details about this PPA` to see the actual links of repo.
 
+#
 
 ## 2. Select 
 
@@ -41,11 +44,15 @@ deb http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu xenial main
 deb-src http://ppa.launchpad.net/graphics-drivers/ppa/ubuntu xenial main 
 ```
 
+#
+
 ## 3. Add these links to your `/etc/apt/sources.list` with any text editor.
 
 >NOTE: remember not to add in /etc/apt/sources.list.d/parrot.list because that mirror list is used by system and it's better not to touch it,
 
 Paste/Append the Links into the `/etc/apt/sources.list` file.
+
+#
 
 ## 4. Adding the Signing key
 
@@ -69,10 +76,13 @@ $ sudo apt-key add --keyserver keyserver.ubuntu.com --recv-keys \
 
 And Now finally update & upgrade Your system. and install your graphic drivers as per your requirements. You can also add microsoft's `vscode`'s repo to install `vscode`, as well as you can add repos for custom `WINE` versions. 
 
+#
+
 ## How to Remove PPA
 
 Just delete OR comment out the links form `/etc/apt/sources.list` and update your system.
 
+#
 
 # Final Notes
 
