@@ -3,8 +3,6 @@ title: Manually Adding PPA In ParrotOS
 published: true
 ---
 
-# Manually Adding PPA In ParrotOS
-
 **ParrotOs** is great Distro for pentesters and NO.1 competitor of **kali linux** but some features are disable for security purpose see their [Documentation](https://docs.parrotlinux.org/) for more information, hear we are going to add launchpad's Proprietary GPU Drivers ppa.
 
 >**WARNING: this guide is just for information purpose however it is not recommended to do, because ParrotOS is rolling relese so adding a ppa can be risky and may break your system.**
