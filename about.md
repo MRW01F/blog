@@ -4,8 +4,7 @@ title: About
 ---
 
 # About Mihir Gosai
-
-## Cybersecurity & Penetrationtesting
+z
 
 19 Years Old Tech Enthusiast Who Had Interest In Computers Since Childhood. I Had My Hands On My First Computer When I Was 8 Years Old, Since Then I Started Exploring Computer World & Till Now I Am Exploring It.
 
