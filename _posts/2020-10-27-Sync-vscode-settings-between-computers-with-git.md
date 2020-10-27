@@ -176,7 +176,7 @@ The `Syncify` is the best and reliable way I have tried to sync my settings and 
 
 ## References
 
-Documentation: [](https://arnohovhannisyan.space/vscode-syncify/)<br>
-Github: [](https://github.com/arnohovhannisyan/vscode-syncify)<br>
-Spectrum: [](https://spectrum.chat/vscode-syncify)<br>
-Discord: [](https://discord.gg/DwFKj57)<br>
+Documentation: <https://arnohovhannisyan.space/vscode-syncify/><br>
+Github: <https://github.com/arnohovhannisyan/vscode-syncify><br>
+Spectrum: <https://spectrum.chat/vscode-syncify><br>
+Discord: <https://discord.gg/DwFKj57><br>
