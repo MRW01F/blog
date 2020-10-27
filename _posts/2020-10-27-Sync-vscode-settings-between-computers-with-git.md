@@ -147,7 +147,7 @@ After switching the current profile using the command, Syncify will prompt you t
 
 ### Example Configuration
 
-```jsonp
+```json
 {
     "syncer": "repo",
     "repo": {
