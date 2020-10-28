@@ -78,10 +78,13 @@ It doesn’t stop there. Both [Samsung](https://www.koreaherald.com/view.php?ud=
 
 * **Advanced security**: Pervasive application of security technology for privacy, attack prevention, attack detection, attack resilience, and recovery in a zero-trust environment. 
 
+<br>
 
 # Final Notes
 
 For now, 5G is just beginning to get interesting, and with at least ten years to go before the first hint of a 6G network comes along, let’s enjoy some of the exciting tech 5G will bring us before then. Don’t worry, we’ll be keeping up with 6G, too, to make sure we’re fully prepared for 2030 and beyond.
+
+<br>
 
 ## References
 <https://en.wikipedia.org/wiki/6G_(network)><br>
