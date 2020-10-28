@@ -3,7 +3,11 @@ title: 6G New Generations of Wireless
 published: true
 ---
 
-<img src="{{ site.baseurl }}/assets/images/6g.jpg">
+<center>
+
+<img align="center" src="{{ site.baseurl }}/assets/images/6g.jpg">
+
+</center>
 
 # What Is 6G ?
 
