@@ -73,7 +73,7 @@ python sigploit.py
 
 ### 1.3 Setting the options: client_pc, serve_pc, client and server IP, port, MSISDN (phone number)
 
-<center><img align="center" src="{{ site.baseurl }}/assets/images/ss7/ss7_7.jpg"></center><br>
+<center><img align="center" src="{{ site.baseurl }}/assets/images/ss7/ss7_8.jpg"></center><br>
 
 ### 1.4 Capturing packets from any packet analyzer
 
