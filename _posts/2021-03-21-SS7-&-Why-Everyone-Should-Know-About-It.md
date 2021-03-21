@@ -3,7 +3,7 @@ title: SS7 & Why Everyone Should Know About It
 published: true
 ---
 
-<center><img align="center" src="{{ site.baseurl }}/assets/images/ss7.jpg"></center><br>
+<center><img align="center" src="{{ site.baseurl }}/assets/images/ss7/ss7.jpg"></center><br>
 
 # What Is SS7 (OpenSS7)
 
