@@ -15,30 +15,30 @@ Instagram is the money-making machine of Facebook. Instagram brought in $20 bill
 
 ## 1. Launch the Facebook app and click on the hamburger icon.
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/1.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/1.jpg"></center><br>
 
 ## 2. Tap on Settings & Privacy and select “Settings” from the list.
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/2.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/2.jpg"></center><br>
 
 ## 3. Now scroll down and click on “Ad Preferences.”
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/3.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/3.jpg"></center><br>
 
 ## 4. Now, select “Ad Settings” and Tap on “Data about your activity from partners.”
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/4.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/4.jpg"></center><br>
 
 ## 5. Toggle the Facebook and Instagram switches to off. This setting is also available in the Instagram app, but Facebook provides more comprehensive options.
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/5.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/5.jpg"></center><br>
 
 ## 6. Moreover, in the “Ad Settings” menu, click on “Categories used to reach you.”
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/6.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/6.jpg"></center><br>
 
 ## 7. Scroll down and opt-out of all the “Interest categories” and “Other categories.”
 
-<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/7.jpg"></center>
+<center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/7.jpg"></center><br>
 
 By doing so, you’ve denied permission to show some targeted ads on Instagram and Facebook. Although this will not fully stop Instagram from showing you ads, they will be less relevant since social media platforms (Instagram and Facebook) can’t access your data from third-party apps for targeted and creepy ads.
