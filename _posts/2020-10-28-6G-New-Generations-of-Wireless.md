@@ -5,7 +5,7 @@ published: true
 
 <center>
 
-<img align="center" src="{{ site.baseurl }}/assets/images/6g/6g.jpg">
+<img align="center" width="1000" height="500" src="{{ site.baseurl }}/assets/images/6g/6g.jpg">
 
 </center>
 
