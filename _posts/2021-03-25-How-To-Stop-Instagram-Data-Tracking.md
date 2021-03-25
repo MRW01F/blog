@@ -13,31 +13,31 @@ Instagram is the money-making machine of Facebook. Instagram brought in $20 bill
 
 # How to limit Instagram data tracking for ads?
 
-1. Launch the Facebook app and click on the hamburger icon.
+## 1. Launch the Facebook app and click on the hamburger icon.
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/1.jpg"></center>
 
-2. Tap on Settings & Privacy and select “Settings” from the list.
+## 2. Tap on Settings & Privacy and select “Settings” from the list.
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/2.jpg"></center>
 
-3. Now scroll down and click on “Ad Preferences.”
+## 3. Now scroll down and click on “Ad Preferences.”
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/3.jpg"></center>
 
-4. Now, select “Ad Settings” and Tap on “Data about your activity from partners.”
+## 4. Now, select “Ad Settings” and Tap on “Data about your activity from partners.”
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/4.jpg"></center>
 
-5. Toggle the Facebook and Instagram switches to off. This setting is also available in the Instagram app, but Facebook provides more comprehensive options.
+## 5. Toggle the Facebook and Instagram switches to off. This setting is also available in the Instagram app, but Facebook provides more comprehensive options.
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/5.jpg"></center>
 
-6. Moreover, in the “Ad Settings” menu, click on “Categories used to reach you.”
+## 6. Moreover, in the “Ad Settings” menu, click on “Categories used to reach you.”
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/6.jpg"></center>
 
-7. Scroll down and opt-out of all the “Interest categories” and “Other categories.”
+## 7. Scroll down and opt-out of all the “Interest categories” and “Other categories.”
 
 <center><img align="center"  src="{{ site.baseurl }}/assets/images/insta/7.jpg"></center>
 
